@@ -1,0 +1,6 @@
+[submodule "mbed-src"]
+	path = mbed-src
+	url = git@github.com:mbedmicro/mbed.git
+[submodule "BLE_API"]
+	path = BLE_API
+	url = https://github.com/janekm/BLE-API
